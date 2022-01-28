@@ -1,12 +1,22 @@
 # Belly_Button_Challenge
 
-***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages
+***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
 
 
 ***OVERVIEW***
 
+The purpose of this challenge was to assist Roza 
+
 
 ***RESULTS AND SUMMARY***
+
+**DELIVERABLE 1**
+
+**DELIVERABLE 2**
+
+**DELIVERABLE 3**
+
+**DELIVERABLE 4**
 
 https://tahczeban.github.io/Belly_Button_Challenge/
 
