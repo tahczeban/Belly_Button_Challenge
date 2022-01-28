@@ -19,15 +19,15 @@ The purpose of this challenge was to assist Roza
 
 ***RESULTS AND SUMMARY***
 
-**DELIVERABLE 1**
+**DELIVERABLE 1**Create a Horizontal Bar Chart
 
 This task included the creation of a horizontal chart depicting the 
 
-**DELIVERABLE 2**
+**DELIVERABLE 2**Create a Bubble Chart
 
-**DELIVERABLE 3**
+**DELIVERABLE 3**Create a Gauge Chart
 
-**DELIVERABLE 4**
+**DELIVERABLE 4**Customize the Dashboard
 
 https://tahczeban.github.io/Belly_Button_Challenge/
 
