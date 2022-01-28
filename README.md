@@ -21,7 +21,7 @@ The purpose of this challenge was to assist Roza
 
 **DELIVERABLE 1:** Create a Horizontal Bar Chart
 
-This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participants of the study. It also considers sample-values (samples) versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js. and the default dropdown menu was set at ID# 940 (FIGURE: 2).
+This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participants of the study. It also considers sample-values (samples) versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js; the default dropdown menu was set at ID# 940 (FIGURE: 2).
 
 
 <img width="1440" alt="bar chart interactivity" src="https://user-images.githubusercontent.com/90135381/151611854-59dd37db-904f-4da9-93ee-d3a0f09839e0.png">
@@ -53,7 +53,10 @@ Utilizing the same tools, a bubble chart was created to illustrate the otu_ids a
 
 **DELIVERABLE 3:** Create a Gauge Chart
 
-This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
+This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are predicted to be 
+
+
+significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
 
 
 
@@ -65,7 +68,7 @@ This interactive gauge chart depicts the value of the weekly washing frequency w
 
 **DELIVERABLE 4:** Customize the Dashboard
 
-
+The last Deliverable for this assignment included altering the code in the index.html and charts.js files to personalize the webpage and improve its overall appearance.
 
 
 
@@ -79,7 +82,7 @@ This interactive gauge chart depicts the value of the weekly washing frequency w
 <img width="1440" alt="charts js gauge chart changes" src="https://user-images.githubusercontent.com/90135381/151613907-e19379d9-2c35-42ed-8b7a-613674c871db.png">
 
 
-
+                                      FIGURE 6: Code for Gauge Subtitle and Color Alterations
 
 
 
@@ -90,13 +93,13 @@ This interactive gauge chart depicts the value of the weekly washing frequency w
 
 
 
+                                    FIGURE 7: Code Alteration for Bubble Chart Color
 
 
 
 
 
 
-<img width="1440" alt="interactivity" src="https://user-images.githubusercontent.com/90135381/151611925-18c84ae4-2aee-40de-8884-1010b3fc6e61.png">
 
 
 
