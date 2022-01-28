@@ -53,30 +53,23 @@ Utilizing the same tools, a bubble chart was created to illustrate the otu_ids a
 
 **DELIVERABLE 3:** Create a Gauge Chart
 
-This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are predicted to be 
-
-
-significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
+This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are predicted to be significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
 
 
 
 <img width="1440" alt="interactivity" src="https://user-images.githubusercontent.com/90135381/151611925-18c84ae4-2aee-40de-8884-1010b3fc6e61.png">
 
 
-                                      FIGURE 5: Interactive Gauge Chart with Progress Bar Per ID#
+                                     FIGURE 5: Interactive Gauge Chart with Progress Bar Per ID#
 
 
 **DELIVERABLE 4:** Customize the Dashboard
 
-The last Deliverable for this assignment included altering the code in the index.html and charts.js files to personalize the webpage and improve its overall appearance.
+The last Deliverable for this assignment included altering the code in the index.html and charts.js files to personalize the webpage and improve its overall appearance. The alterations chosen for this particular page are as follows:
 
-
-
-
-
-
-
-
+1. Changes to Subtitle and color for the Gauge Chart (FIGURE 6)
+2. Changes to Bubble Chart color (FIGURE: 7)
+3. 
 
 
 <img width="1440" alt="charts js gauge chart changes" src="https://user-images.githubusercontent.com/90135381/151613907-e19379d9-2c35-42ed-8b7a-613674c871db.png">
@@ -99,9 +92,10 @@ The last Deliverable for this assignment included altering the code in the index
 
 
 
+<img width="1440" alt="device interactivity" src="https://user-images.githubusercontent.com/90135381/151611957-e515687c-1018-4c7d-9fdb-b940ab7af7bf.png">
 
 
-
+                                    FIGURE 8: Device Interactivity
 
 
 
@@ -112,10 +106,7 @@ The last Deliverable for this assignment included altering the code in the index
 
 
 
-
-
-<img width="1440" alt="device interactivity" src="https://user-images.githubusercontent.com/90135381/151611957-e515687c-1018-4c7d-9fdb-b940ab7af7bf.png">
-
+                                   FIGURE 9: Code for Jumbotron Image, Text Bolding and Subtitle
 
 
 
@@ -124,5 +115,8 @@ The last Deliverable for this assignment included altering the code in the index
 
 <img width="1440" alt="device interactivity-mobile" src="https://user-images.githubusercontent.com/90135381/151611971-b28d368f-3936-41f3-aec4-f7bbf508951c.png">
 
+
+
+                                   FIGURE 10: Device Interactivity
 
 ***RESOURCES*** Google, Google Images, BCS, GitHub, GitHubPages, StackOverflow
