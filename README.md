@@ -22,6 +22,9 @@
 
 
 
+<img width="1440" alt="charts js bubble chart changes" src="https://user-images.githubusercontent.com/90135381/151613989-4820871a-3a3c-4b2f-a905-a03d1a676f00.png">
+
+
 
 
 <img width="1440" alt="bubble chart with intractivity" src="https://user-images.githubusercontent.com/90135381/151611864-092ce6df-270d-47a1-863f-1ff78cbb45aa.png">
