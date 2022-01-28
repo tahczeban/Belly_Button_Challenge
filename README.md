@@ -14,12 +14,12 @@
 
 ***OVERVIEW***
 
-The purpose of this challenge was to assist Roza 
+The purpose of this challenge was to assist Roza with plotting visualizations of cultured Belly Button Bacteria obtained for studying the viability of producing Improbable Beef from said bacteria cultures. These visualizations were created via charts produced with Plotly, utilizing the external CSV and web API data obtained with D3.json. This data was then manipulated with JavaScript functional programming and JS's math library to manipulate the numbers. Event handlers were added to create interactivity to said data and appearance was altered to make the charts more visually appealing. Lastly, this interactive page was deployed to GitHub Pages for ease of website viewing.
 
 
-***RESULTS AND SUMMARY***
+***RESULTS AND SUMMARY:***
 
-**DELIVERABLE 1:** Create a Horizontal Bar Chart
+**DELIVERABLE 1:** Create an Interactive Horizontal Bar Chart
 
 This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participants of the study. It also considers sample-values (samples) versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js; the default dropdown menu was set at ID# 940 (FIGURE: 2).
 
@@ -32,7 +32,7 @@ This task included the creation of an interactive horizontal chart depicting the
 
 
 
-**DELIVERABLE 2:** Create a Bubble Chart
+**DELIVERABLE 2:** Create an Interactive Bubble Chart
 
 Utilizing the same tools, a bubble chart was created to illustrate the otu_ids as the marker colors on the x-axis, sample_values as the interactive marker size per ID# on the y-axis and, lastly, the otu_labels as the hover-text values (FIGURES: 3 and 4).
 
@@ -53,7 +53,7 @@ Utilizing the same tools, a bubble chart was created to illustrate the otu_ids a
 
 **DELIVERABLE 3:** Create a Gauge Chart
 
-This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are predicted to be significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
+This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing ID#967 and ID#955, the amount of scrubs per week can be visualized for both (FIGURE:4 and 5).
 
 
 
