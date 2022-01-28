@@ -12,6 +12,10 @@
 
 
 
+<img width="1440" alt="charts js gauge chart changes" src="https://user-images.githubusercontent.com/90135381/151613907-e19379d9-2c35-42ed-8b7a-613674c871db.png">
+
+
+
 
 <img width="1440" alt="bar chart interactivity" src="https://user-images.githubusercontent.com/90135381/151611854-59dd37db-904f-4da9-93ee-d3a0f09839e0.png">
 
