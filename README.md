@@ -34,6 +34,10 @@
 
 
 
+<img width="1440" alt="index html mobility:jumbotron" src="https://user-images.githubusercontent.com/90135381/151613790-9420465d-1512-44e0-92bc-7da5d77fb249.png">
+
+
+
 
 
 <img width="1440" alt="device interactivity" src="https://user-images.githubusercontent.com/90135381/151611957-e515687c-1018-4c7d-9fdb-b940ab7af7bf.png">
