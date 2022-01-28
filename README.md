@@ -69,7 +69,8 @@ The last Deliverable for this assignment included altering the code in the index
 
 1. Changes to Subtitle and color for the Gauge Chart (FIGURE 6)
 2. Changes to Bubble Chart color (FIGURE: 7)
-3. 
+3. Jumbotron Image and Subtitle addition, with text bolding (FIGURES 8 and 9)
+4. Device Interactivity (FIGURES: 9 and 10)
 
 
 <img width="1440" alt="charts js gauge chart changes" src="https://user-images.githubusercontent.com/90135381/151613907-e19379d9-2c35-42ed-8b7a-613674c871db.png">
@@ -95,7 +96,7 @@ The last Deliverable for this assignment included altering the code in the index
 <img width="1440" alt="device interactivity" src="https://user-images.githubusercontent.com/90135381/151611957-e515687c-1018-4c7d-9fdb-b940ab7af7bf.png">
 
 
-                                    FIGURE 8: Device Interactivity
+                                    FIGURE 8: Jumbotron Image with Subtitle and Text Bolding
 
 
 
