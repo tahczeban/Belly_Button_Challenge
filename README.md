@@ -20,9 +20,21 @@ The purpose of this challenge was to assist Roza
 
 **DELIVERABLE 1:** Create a Horizontal Bar Chart
 
-This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participantss of the study. It also considers sample-values versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js. and the default dropdown menu was set at ID# 940.
+This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participants of the study. It also considers sample-values (samples) versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js. and the default dropdown menu was set at ID# 940 (FIGURE: 2).
+
+
+<img width="1440" alt="bar chart interactivity" src="https://user-images.githubusercontent.com/90135381/151611854-59dd37db-904f-4da9-93ee-d3a0f09839e0.png">
+
+                 
+                                          FIGURE 2: Interactive Horizontal Bar Chart
+
+
+
 
 **DELIVERABLE 2:** Create a Bubble Chart
+
+Utilizing the same tools, a bubble chart was created to illustrate the otu_ids as the marker colors on the x-axis, sample_values as the interactive marker size per ID# on the y-axis and, lastly, the otu_labels as the hover-text values (FIGURE: 3).
+
 
 **DELIVERABLE 3:** Create a Gauge Chart
 
@@ -44,7 +56,7 @@ https://tahczeban.github.io/Belly_Button_Challenge/
 
 
 
-<img width="1440" alt="bar chart interactivity" src="https://user-images.githubusercontent.com/90135381/151611854-59dd37db-904f-4da9-93ee-d3a0f09839e0.png">
+
 
 
 
