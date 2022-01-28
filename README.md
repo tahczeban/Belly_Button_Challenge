@@ -3,10 +3,9 @@
   ***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
 
 
+<img width="1440" alt="default 940" src="https://user-images.githubusercontent.com/90135381/151611835-a6c76266-56ff-4712-bd14-bfaaeb2f099c.png">
 
-
-<img width="1440" alt="default webpage" src="https://user-images.githubusercontent.com/90135381/151611772-f3ed594c-c012-43c6-a9a5-f38664ee453c.png">
-                                                                  
+                                               
                                                                       
                                              FIGURE 1: Default Webpage
                                                                   
@@ -19,15 +18,15 @@ The purpose of this challenge was to assist Roza
 
 ***RESULTS AND SUMMARY***
 
-**DELIVERABLE 1**Create a Horizontal Bar Chart
+**DELIVERABLE 1:** Create a Horizontal Bar Chart
 
-This task included the creation of a horizontal chart depicting the 
+This task included the creation of an interactive horizontal chart depicting the top 10 bacterial species (OTU's) with an interactive dropdown menu addressing the ID numbers of the participantss of the study. It also considers sample-values versus otu_id labels and was constructed via JavaScript, Plotly, and D3.js. and the default dropdown menu was set at ID# 940.
 
-**DELIVERABLE 2**Create a Bubble Chart
+**DELIVERABLE 2:** Create a Bubble Chart
 
-**DELIVERABLE 3**Create a Gauge Chart
+**DELIVERABLE 3:** Create a Gauge Chart
 
-**DELIVERABLE 4**Customize the Dashboard
+**DELIVERABLE 4:** Customize the Dashboard
 
 https://tahczeban.github.io/Belly_Button_Challenge/
 
@@ -36,7 +35,7 @@ https://tahczeban.github.io/Belly_Button_Challenge/
 
 
 
-<img width="1440" alt="default 940" src="https://user-images.githubusercontent.com/90135381/151611835-a6c76266-56ff-4712-bd14-bfaaeb2f099c.png">
+
 
 
 
