@@ -1,6 +1,6 @@
 # Belly_Button_Challenge
 
-***RESOURCES***
+***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages
 
 
 ***OVERVIEW***
