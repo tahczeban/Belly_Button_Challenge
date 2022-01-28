@@ -93,6 +93,7 @@ function buildCharts(sample) {
     // 9. Create the layout for the bar chart. 
     var barLayout = {
       width: 500, height: 500,
+      color: "turquoise",
       title: "Top 10 Bacteria Cultures-OTU's",
       margin: { t: 30, l: 150 },   
       xaxis: {title: "Samples" },
@@ -111,7 +112,7 @@ function buildCharts(sample) {
   marker: {
     size: sample_values,
     color: otu_ids,
-    colorscale: "Purpleblack"
+    colorscale: "Picnic"
   }
 }];
 
@@ -148,7 +149,7 @@ var gaugeData = [{
   value: wash_freq,
   type: "indicator",
   mode: "gauge+number",
-  title: { text: "<b> Belly Button Washing Frequency</b> <br> # of Scrubs per Week" },
+  title: { text: "<b> Belly Button Washing Frequency</b> <br> pink=more bac/turquoise=less bac" },
   gauge: {
     axis: { range: [null, 10], tickwidth: 1, tickcolor: "black" },
     bar: { color: "black" },
@@ -157,7 +158,7 @@ var gaugeData = [{
       { range: [2, 4], color: "pink" },
       { range: [4, 6], color: "yellow" },
       { range: [6, 8], color: "turquoise" },
-      { range: [8, 10], color: "lightseagreen" }
+      { range: [8, 10], color: "darkturquoise" }
     ],
     threshold: {
       value: wash_freq,
