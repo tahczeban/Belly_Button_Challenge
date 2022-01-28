@@ -1,6 +1,7 @@
 # Belly_Button_Challenge
 
   ***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
+ Please visit my website at:  https://tahczeban.github.io/Belly_Button_Challenge/
 
 
 <img width="1440" alt="default 940" src="https://user-images.githubusercontent.com/90135381/151611835-a6c76266-56ff-4712-bd14-bfaaeb2f099c.png">
@@ -26,21 +27,45 @@ This task included the creation of an interactive horizontal chart depicting the
 <img width="1440" alt="bar chart interactivity" src="https://user-images.githubusercontent.com/90135381/151611854-59dd37db-904f-4da9-93ee-d3a0f09839e0.png">
 
                  
-                                          FIGURE 2: Interactive Horizontal Bar Chart
+                                          FIGURE 2: Interactive Horizontal Bar Chart-Hover
 
 
 
 
 **DELIVERABLE 2:** Create a Bubble Chart
 
-Utilizing the same tools, a bubble chart was created to illustrate the otu_ids as the marker colors on the x-axis, sample_values as the interactive marker size per ID# on the y-axis and, lastly, the otu_labels as the hover-text values (FIGURE: 3).
+Utilizing the same tools, a bubble chart was created to illustrate the otu_ids as the marker colors on the x-axis, sample_values as the interactive marker size per ID# on the y-axis and, lastly, the otu_labels as the hover-text values (FIGURES: 3 and 4).
 
+
+<img width="1440" alt="bubble chart with intractivity" src="https://user-images.githubusercontent.com/90135381/151611864-092ce6df-270d-47a1-863f-1ff78cbb45aa.png">
+
+
+                                        FIGURE 3: Interactive Bubble Chart-Hover
+                                        
+                                        
+   
+<img width="1440" alt="interactivity2" src="https://user-images.githubusercontent.com/90135381/151611936-eaee0c5f-f266-42c6-b2e7-4028ce159547.png">
+
+
+                                       FIGURE 4: Interactive Bubble Chart-Marker Size
+          
+                                        
 
 **DELIVERABLE 3:** Create a Gauge Chart
 
+This interactive gauge chart depicts the value of the weekly washing frequency with the range set a value of 0 to 10 on the progressbar, which displays the black gauge (FIGURE: 5). When comparing the amount of scrubs per week, it can be ascertained that the benefits of hand washing are significantly increased for ID#955 in comparison to ID#967 (FIGURE:5 and 4, respectively).
+
+
+
+<img width="1440" alt="interactivity" src="https://user-images.githubusercontent.com/90135381/151611925-18c84ae4-2aee-40de-8884-1010b3fc6e61.png">
+
+
+                                      FIGURE 5: Interactive Gauge Chart with Progress Bar Per ID#
+
+
 **DELIVERABLE 4:** Customize the Dashboard
 
-https://tahczeban.github.io/Belly_Button_Challenge/
+
 
 
 
@@ -66,7 +91,7 @@ https://tahczeban.github.io/Belly_Button_Challenge/
 
 
 
-<img width="1440" alt="bubble chart with intractivity" src="https://user-images.githubusercontent.com/90135381/151611864-092ce6df-270d-47a1-863f-1ff78cbb45aa.png">
+
 
 
 
@@ -76,7 +101,7 @@ https://tahczeban.github.io/Belly_Button_Challenge/
 
 
 
-<img width="1440" alt="interactivity2" src="https://user-images.githubusercontent.com/90135381/151611936-eaee0c5f-f266-42c6-b2e7-4028ce159547.png">
+
 
 
 
