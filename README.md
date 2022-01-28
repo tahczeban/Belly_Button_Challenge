@@ -1,7 +1,16 @@
 # Belly_Button_Challenge
 
-***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
+  ***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
 
+
+
+
+<img width="1440" alt="default webpage" src="https://user-images.githubusercontent.com/90135381/151611772-f3ed594c-c012-43c6-a9a5-f38664ee453c.png">
+                                                                  
+                                                                      
+                                             FIGURE 1: Default Webpage
+                                                                  
+                                                                  
 
 ***OVERVIEW***
 
@@ -12,6 +21,8 @@ The purpose of this challenge was to assist Roza
 
 **DELIVERABLE 1**
 
+This task included the creation of a horizontal chart depicting the 
+
 **DELIVERABLE 2**
 
 **DELIVERABLE 3**
@@ -21,7 +32,6 @@ The purpose of this challenge was to assist Roza
 https://tahczeban.github.io/Belly_Button_Challenge/
 
 
-<img width="1440" alt="default webpage" src="https://user-images.githubusercontent.com/90135381/151611772-f3ed594c-c012-43c6-a9a5-f38664ee453c.png">
 
 
 
@@ -76,4 +86,4 @@ https://tahczeban.github.io/Belly_Button_Challenge/
 <img width="1440" alt="device interactivity-mobile" src="https://user-images.githubusercontent.com/90135381/151611971-b28d368f-3936-41f3-aec4-f7bbf508951c.png">
 
 
-***RESOURCES*** Google, Google Images, BCS, GitHub. StackOverflow
+***RESOURCES*** Google, Google Images, BCS, GitHub, GitHubPages, StackOverflow
