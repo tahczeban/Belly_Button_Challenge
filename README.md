@@ -1,5 +1,6 @@
 # Belly_Button_Challenge
 
+__________________
   ***RESOURCES*** Plotly.js, JavaScript, Bootstrap, samples.json, VSC, HTML, d3.js, GitHub, GitHub pages.
  Please visit my website at:  https://tahczeban.github.io/Belly_Button_Challenge/
 
@@ -11,12 +12,12 @@
                                              FIGURE 1: Default Webpage
                                                                   
                                                                   
-
+______________
 ***OVERVIEW***
 
 The purpose of this challenge was to assist Roza with plotting visualizations of cultured Belly Button Bacteria obtained for studying the viability of producing Improbable Beef from said bacteria cultures. These visualizations were created via charts produced with Plotly, utilizing the external CSV and web API data obtained with D3.json. This data was then manipulated with JavaScript functional programming and JS's math library to manipulate the numbers. Event handlers were added to create interactivity to said data and appearance was altered to make the charts more visually appealing. Lastly, this interactive page was deployed to GitHub Pages for ease of website viewing.
 
-
+__________________________
 ***RESULTS AND SUMMARY:***
 
 **DELIVERABLE 1:** Create an Interactive Horizontal Bar Chart
@@ -119,5 +120,5 @@ The last Deliverable for this assignment included altering the code in the index
 
 
                                    FIGURE 10: Device Interactivity
-
+_______________
 ***RESOURCES*** Google, Google Images, BCS, GitHub, GitHubPages, StackOverflow
